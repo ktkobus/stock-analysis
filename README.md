@@ -9,11 +9,11 @@ An old friend Steve has recently graduated with his finance degree and his paren
 #### Results
 The initial analysis of the stock data proved that almost all stocks had a positive return rate in the year 2017. The only stock that had negative returns (lost money) was **TERP** with a return of -7.2%. **DQ** had a return rate of 199.4% in 2017, so it looks like a good investment for Steve's parents at this point in having the highest return rate of the twelve stocks in 2017. The stocks that had the next two highest return rates after DAQO were **SEDG** (184.5%) and **ENPH** (129.5%). The stocks that round out the bottom three of return rates were **RUN** (5.5%) and **AY** (8.9%), while these two stocks were among the lowest performing in 2017, they did still have a positive return rate, resulting in investors still making money.
 
-![VBA_Challenge_2017.png](../resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017.png](resources/VBA_Challenge_2017.png)
 
 The return rate for the green energy stocks however, were not as positive in 2018. Only two companies had a positive return rate. The only stocks whose returns were positive were **RUN** (84.0%) and **ENPH** (81.9%). **RUN** had a Total Daily Volume of 267,681,300 in 2017 and 502,757,100 in 2018. **ENPH**'s Total Daily Volume in 2017 was 221,772,100 and 607,473,500 in 2018. **DQ** was the worst performing stock in 2018 with a return rate of -62.6% and Total Daily Volume of 107,873,900 (compared to 2017's 35,796,200). The other two stocks in the bottom three were **JKS** (-60.5%) and **SPWR** (-44.6%).
 
-![VBA_Challenge_2018.png](../resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018.png](resources/VBA_Challenge_2018.png)
 
 ### **Example of original code:**
 ```
